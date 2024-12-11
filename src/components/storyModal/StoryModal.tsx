@@ -29,7 +29,7 @@ const StoryModal: React.FC<StoryModalType> = ({ setStoryViewMode }) => {
           setStoryViewMode(false);
         }
       }}>
-      <div ref={containerRef} className={s.container}>
+{/*       <div ref={containerRef} className={s.container}>
         {!storyImages ?"": (
           <Stories
             stories={storyImages}
@@ -40,7 +40,7 @@ const StoryModal: React.FC<StoryModalType> = ({ setStoryViewMode }) => {
             onStoryEnd={() => setStoryViewMode(false)}
           />
         )}
-      </div>
+      </div> */}
     </div>
   );
 };
