@@ -30,7 +30,7 @@ const StoryModal: React.FC<StoryModalType> = ({ setStoryViewMode }) => {
         }
       }}>
       <div ref={containerRef} className={s.container}>
-        {storyImages && (
+        {!storyImages ?"": (
           <Stories
             stories={storyImages}
             defaultInterval={5500}
