@@ -50,9 +50,3 @@ npm run dev
 - Redux Toolkit
 - Sass
 - Vite
-
-## Contributions
-I welcome contributions from the community. If you have an idea for a new feature or have identified a bug, please open an issue. If you would like to contribute code, please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License - please refer to the LICENSE file for more information.
