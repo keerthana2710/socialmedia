@@ -22,7 +22,7 @@ To run this application locally, please follow the steps below:
 1. Clone the repository to your local machine
 
 ```sh
-https://github.com/tyommmm/social-media.git
+https://github.com/keerthana2710/socialmedia.git
 ```
 2. Install the necessary dependencies
 ```sh
