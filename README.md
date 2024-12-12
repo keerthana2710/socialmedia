@@ -1,4 +1,4 @@
-# Socialsquare - Social media app
+# SocialMedia - Social media app
 
 > This social media application is developed using the latest technologies including React, Typescript, Firebase, Redux Toolkit, and Sass.
 > The platform offers users a comprehensive set of features that allows them to create posts, comment on posts, like posts, add stories, add friends, chat with users within the application, upload and edit their avatar, and many other functionalities.
